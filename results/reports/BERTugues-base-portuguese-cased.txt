@@ -1,0 +1,14 @@
+{'eval_loss': 0.6350620985031128, 'eval_accuracy': 0.6456140350877193, 'eval_runtime': 0.318, 'eval_samples_per_second': 1792.612, 'eval_steps_per_second': 113.218, 'epoch': 1.0}
+{'loss': 0.5971, 'grad_norm': 6.701840400695801, 'learning_rate': 1.6666666666666667e-05, 'epoch': 2.0}
+{'eval_loss': 0.7267444133758545, 'eval_accuracy': 0.6228070175438597, 'eval_runtime': 0.3112, 'eval_samples_per_second': 1831.899, 'eval_steps_per_second': 115.699, 'epoch': 2.0}
+{'eval_loss': 0.9246512651443481, 'eval_accuracy': 0.6280701754385964, 'eval_runtime': 0.3201, 'eval_samples_per_second': 1780.761, 'eval_steps_per_second': 112.469, 'epoch': 3.0}
+{'train_runtime': 30.7094, 'train_samples_per_second': 389.783, 'train_steps_per_second': 24.423, 'train_loss': 0.5057642923990885, 'epoch': 3.0}
+              precision    recall  f1-score   support
+
+           0       0.62      0.76      0.69       570
+           1       0.69      0.54      0.61       570
+
+    accuracy                           0.65      1140
+   macro avg       0.66      0.65      0.65      1140
+weighted avg       0.66      0.65      0.65      1140
+
